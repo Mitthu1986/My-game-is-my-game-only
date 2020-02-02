@@ -1,2 +1,2 @@
-# My-game-is-my-game-only
-A pollution awareness game but is very basic.
+# p5.play-boilerplate
+Boiler plate for p5.play
